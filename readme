@@ -1,13 +1,13 @@
 This project demonstrates Natural Language Processing (NLP) techniques using Python to process, analyze, and model textual data. It covers tasks like text preprocessing, sentiment analysis, topic modeling, and building machine learning pipelines for text classification.
 
-##Project Objective
+## Project Objective
 Understand and implement core NLP preprocessing steps.
 
 Build predictive models for text classification and sentiment analysis.
 
 Explore feature extraction techniques like Bag of Words and TF-IDF.
 
-##Tools & Technologies
+## Tools & Technologies
 Programming Language: Python
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK, spaCy
@@ -16,7 +16,7 @@ NLP Techniques: Tokenization, Stopword Removal, Lemmatization, Stemming, TF-IDF
 
 Environment: Jupyter Notebook
 
-##Results
+## Results
 Implemented various preprocessing techniques and visualizations of textual data.
 
 Built classification models with performance evaluation using accuracy, precision, recall, and F1-score.
