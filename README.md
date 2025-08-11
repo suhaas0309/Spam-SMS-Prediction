@@ -1,3 +1,7 @@
+Spam SMS Prediction
+
+---
+
 This project demonstrates Natural Language Processing (NLP) techniques using Python to process, analyze, and model textual data. It covers tasks like text preprocessing, sentiment analysis, topic modeling, and building machine learning pipelines for text classification.
 
 ## Project Objective
